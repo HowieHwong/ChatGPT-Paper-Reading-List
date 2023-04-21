@@ -7,8 +7,7 @@ An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Ques
 Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT  
 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace  
 Do Language Models Plagiarize?  
-"CAN LARGE LANGUAGE MODELS CHANGE USER PREFERENCE  
-ADVERSARIALLY?"   
+"CAN LARGE LANGUAGE MODELS CHANGE USER PREFERENCE ADVERSARIALLY?"   
 "Can ChatGPT Understand Too?  
 A Comparative Study on ChatGPT and Fine-tuned BERT"  
 A comprehensive evaluation of ChatGPT’s zero-shot Text-to-SQL capability  
