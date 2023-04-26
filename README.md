@@ -33,3 +33,15 @@
 31. Exploring the Limits of Domain-Adaptive Training for Detoxifying Large-Scale Language Models
 32. Phoenix: Democratizing ChatGPT across Languages
 33. Is ChatGPT a Good Recommender? A Preliminary Study
+34. Why Does ChatGPT Fall Short in Answering Questions Faithfully?
+35. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT
+36. SocialDial: A Benchmark for Socially-Aware Dialogue Systems
+37. CHEAT: A Large-scale Dataset for Detecting ChatGPT-writtEn AbsTracts
+38. How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
+39. More than you’ve asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models
+40. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks
+41. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models
+42. Domain Adaptive Fake News Detection via Reinforcement Learning
+
+
+
