@@ -41,7 +41,7 @@
 39. More than you’ve asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models
 40. Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks
 41. Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models
-42. Domain Adaptive Fake News Detection via Reinforcement Learning
+
 
 
 
